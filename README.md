@@ -25,12 +25,6 @@ An autonomous AI agent that searches for jobs, analyzes job descriptions, matche
 
 ## Architecture
 
-[Insert architecture diagram]
-
+https://github.com/Fulsore/ai-job-application-agent/blob/main/AI_JOB_Agent.drawio.png
 ## Demo
-
-[Insert YouTube demo link]
-
-## Installation
-
-...
+https://github.com/Fulsore/ai-job-application-agent/blob/main/Demo%20Video%20(1).mp4
